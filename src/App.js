@@ -3,12 +3,12 @@ import './App.css';
 
 
 import React from 'react';
-import Nav from './components/Nav.js';
-import About from './components/About';
-import Contact from './components/Contact';
-import Portfolio from './components/Portfolio';
-import Resume from './components/Resume';
-import Footer from './components/Footer';
+import Nav from './components/Nav/index.js';
+import About from './components/About/index.js';
+import Contact from './components/Contact/index.js';
+import Portfolio from './components/Portfolio/index.js';
+import Resume from './components/Resume/index.js';
+import Footer from './components/Footer/index.js';
 
 function App() {
   return (
