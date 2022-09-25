@@ -10,9 +10,9 @@ import Portfolio from './components/Portfolio/index.js';
 import Resume from './components/Resume/index.js';
 import Footer from './components/Footer/index.js';
 
-function App() {
+export default function App() {
   return (
-    <main>
+    <main className="text-gray-400 bg-gray-900 body-font">
       <Nav />
       <About />
       <Contact />
@@ -24,4 +24,4 @@ function App() {
   );
 }
 
-export default App;
+
