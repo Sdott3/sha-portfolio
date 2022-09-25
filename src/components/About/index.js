@@ -10,7 +10,13 @@ export default function About () {
                     <br className="hidden lg:inline-block" />
                     Full-Stack Developer
                 </h1>
+                <p className="mb-8 leading-relaxed">
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui
+                laborum quasi, incidunt dolore iste nostrum cupiditate voluptas?
+                Laborum, voluptas natus?
+                </p>
             </div>
+            
         </div>
     </section>
     );
