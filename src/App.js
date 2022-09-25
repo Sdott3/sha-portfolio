@@ -1,7 +1,4 @@
 
-import './App.css';
-
-
 import React from 'react';
 import Nav from './components/Nav/index.js';
 import About from './components/About/index.js';
